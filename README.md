@@ -1,2 +1,2 @@
-# JAVA-Learning-
+# JAVA-Learning
 Basic java 
