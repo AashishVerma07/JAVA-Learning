@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1290a503-d5c4-47d3-b8e2-429b21c39cff" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Design-Patterns/src/main/java/com/java/DesignPatterns/StructuralDesignPattern/AdapterPattern/AdapterPatterDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design-Patterns/src/main/java/com/java/DesignPatterns/StructuralDesignPattern/AdapterPattern/AdvanceMediaPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design-Patterns/src/main/java/com/java/DesignPatterns/StructuralDesignPattern/AdapterPattern/AudioPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design-Patterns/src/main/java/com/java/DesignPatterns/StructuralDesignPattern/AdapterPattern/MP4Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design-Patterns/src/main/java/com/java/DesignPatterns/StructuralDesignPattern/AdapterPattern/MediaAdapert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design-Patterns/src/main/java/com/java/DesignPatterns/StructuralDesignPattern/AdapterPattern/MediaPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design-Patterns/src/main/java/com/java/DesignPatterns/StructuralDesignPattern/AdapterPattern/VLCPlayer.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2IZe74jBgDphLHlTu0gqT55nPgN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_directory_selection": "F:/Ashish workspace/JAVA-Learning/Design-parttern/Design-Patterns/src/main/java",
+    "last_opened_file_path": "F:/Ashish workspace/JAVA-Learning/Design-parttern"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.java.DesignPatterns.StructuralDesignPattern.Decorator-pattern.Decorator" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.AdapterPatterDemo">
+    <configuration default="true" type="AZURE_FUNCTION_SUPPORT" factoryName="Run Functions">
+      <option name="appName" />
+      <option name="appServicePlanName" />
+      <option name="appServicePlanResourceGroup" />
+      <option name="appSettingsKey" value="945962bf-770f-4d96-8c7d-e5c9a2c334d0" />
+      <option name="artifact" />
+      <option name="autoPort" value="true" />
+      <option name="debugOptions" />
+      <option name="deployment" />
+      <option name="deploymentStagingDirectoryPath" />
+      <option name="funcPath" />
+      <option name="funcPort" value="0" />
+      <option name="hostJsonPath" />
+      <option name="insightsName" />
+      <option name="instrumentationKey" />
+      <option name="javaVersion" />
+      <option name="localSettingsJsonPath" />
+      <option name="moduleName" />
+      <option name="os" />
+      <option name="pricingTier" />
+      <option name="providerMap">
+        <map />
+      </option>
+      <option name="region" />
+      <option name="resourceGroup" />
+      <option name="stagingFolder" />
+      <option name="subscription" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AdapterPatterDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java.DesignPatterns.StructuralDesignPattern.AdapterPattern.AdapterPatterDemo" />
+      <module name="Design-Patterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.java.DesignPatterns.StructuralDesignPattern.AdapterPattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java.DesignPatterns.StructuralDesignPattern.DecoratorPattern.Test" />
+      <module name="Design-Patterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.java.DesignPatterns.StructuralDesignPattern.DecoratorPattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AdapterPatterDemo" />
+        <item itemvalue="Application.Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1290a503-d5c4-47d3-b8e2-429b21c39cff" name="Changes" comment="" />
+      <created>1670393361738</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670393361738</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
