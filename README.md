@@ -39,8 +39,11 @@ Basic java
  		- (5:46:54)  17 - Inheritance
  		- (6:20:20)  18 - Java Object finalize() method
  		- (6:36:57)  19 - Object clone method.      [No lesson 20]
- 		- (7:16:04)  21 - Number ranges, autoboxing, and more
- 		- (7:53:00)  22 - HashCode and Equals
- 		- (8:38:16)  23 - Java Collections
- 		- (9:01:12)  24 - ArrayList
-14-12-2022 Complete lesson 16 
+ 		- (7:16:04)  20 - Number ranges, autoboxing, and more
+ 		- (7:53:00)  21 - HashCode and Equals
+ 		- (8:38:16)  22 - Java Collections
+ 		- (9:01:12)  23 - ArrayList
+14-12-2022 Complete lesson 16
+15-12-2022 Complete lessomn 20 in this video tutorial.
+	   - Read 60 question from 1000 interview question.
+	   - Create one small problem for inheritence.
