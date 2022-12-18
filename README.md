@@ -47,3 +47,5 @@
 ##15-12-2022 Complete lessomn 20 in this video tutorial.
 	   - Read 60 question from 1000 interview question.
 	   - Create one small problem for inheritence.
+##18-12-2022 Study java interview questin
+
