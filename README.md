@@ -49,12 +49,15 @@
  		- (7:53:00)  21 - HashCode and Equals
  		- (8:38:16)  22 - Java Collections
  		- (9:01:12)  23 - ArrayList
-## 14-12-2022 Complete lesson 16
+## 14-12-2022 
+	* Complete lesson 16
 ## 15-12-2022 
 	* Complete lessomn 20 in this video tutorial.
 	   - Read 60 question from 1000 interview question.
 	   - Create one small problem for inheritence.
-## 18-12-2022 Study java interview questin
-## 19-12-2022 Study java interview question 
+## 18-12-2022 
+	* Study java interview questin
+## 19-12-2022 
+	* Study java interview question 
 	   - Cover Garbage collection in deep
 	   - Start Collections.
