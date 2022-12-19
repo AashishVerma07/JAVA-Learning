@@ -54,13 +54,7 @@
 	* Complete lessomn 20 in this video tutorial.
 	   - Read 60 question from 1000 interview question.
 	   - Create one small problem for inheritence.
-<<<<<<< HEAD
-##18-12-2022 Study java interview questin
-##19-12-2022 Study java interview question 
+## 18-12-2022 Study java interview questin
+## 19-12-2022 Study java interview question 
 	   - Cover Garbage collection in deep
-	   - Start Collections `
-=======
-## 18-12-2022
-	* Study java interview questin
-
->>>>>>> a69a06d7ececcb04fdf7d4f63bbe0776fa2519b8
+	   - Start Collections.
