@@ -5,13 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1290a503-d5c4-47d3-b8e2-429b21c39cff" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Design-Patterns/src/main/java/com/java/DesignPatterns/StructuralDesignPattern/AdapterPattern/AdapterPatterDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Design-Patterns/src/main/java/com/java/DesignPatterns/StructuralDesignPattern/AdapterPattern/AdvanceMediaPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Design-Patterns/src/main/java/com/java/DesignPatterns/StructuralDesignPattern/AdapterPattern/AudioPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Design-Patterns/src/main/java/com/java/DesignPatterns/StructuralDesignPattern/AdapterPattern/MP4Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Design-Patterns/src/main/java/com/java/DesignPatterns/StructuralDesignPattern/AdapterPattern/MediaAdapert.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Design-Patterns/src/main/java/com/java/DesignPatterns/StructuralDesignPattern/AdapterPattern/MediaPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Design-Patterns/src/main/java/com/java/DesignPatterns/StructuralDesignPattern/AdapterPattern/VLCPlayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +48,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "last_directory_selection": "F:/Ashish workspace/JAVA-Learning/Design-parttern/Design-Patterns/src/main/java",
-    "last_opened_file_path": "F:/Ashish workspace/JAVA-Learning/Design-parttern"
+    "last_opened_file_path": "F:/Ashish workspace/test"
   }
 }]]></component>
   <component name="RecentsManager">
