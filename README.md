@@ -61,3 +61,14 @@
 	* Study java interview question 
 	   - Cover Garbage collection in deep
 	   - Start Collections.
+## 21-12-2022 
+	* Study Java Interview Question
+	   - JAVA basics
+	   - JVM, JDK, JRE ( class loader)
+	   - All memory modules ( stack , heap)
+	   - GC Young generation and old generation
+	   - Collection hierarchy
+	   - Exception hierarchy(try\catch\final)
+	   - Throw and throws
+	* OOPS basics
+	   -OOPS four pillars
