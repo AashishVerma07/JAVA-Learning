@@ -61,7 +61,7 @@
 	* Study java interview question 
 	   - Cover Garbage collection in deep
 	   - Start Collections.
-## 21-12-2022 
+## 21-12-2022    
 	* Study Java Interview Question
 	   - JAVA basics
 	   - JVM, JDK, JRE ( class loader)
