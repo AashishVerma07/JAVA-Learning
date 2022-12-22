@@ -67,8 +67,10 @@
 	   - JVM, JDK, JRE ( class loader)
 	   - All memory modules ( stack , heap)
 	   - GC Young generation and old generation
-	   - Collection hierarchy
 	   - Exception hierarchy(try\catch\final)
 	   - Throw and throws
 	* OOPS basics
 	   -OOPS four pillars
+	   - Composition and aggregation
+	   - Overloading and overriding
+	   - String pool and string Interning
