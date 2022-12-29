@@ -74,3 +74,11 @@
 	   - Composition and aggregation
 	   - Overloading and overriding
 	   - String pool and string Interning
+	   - Primitive, data types, wrapper class
+	   - HashMap, arrayList, linked list
+	   - Hashmap java 8 changes
+	   - Immutable classes
+        * Java 8
+	   - Serialization
+	   - Functional interface 
+	   - Supplier / Consumer
