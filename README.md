@@ -82,4 +82,6 @@
 	   - Serialization
 	   - Functional interface 
 	   - Supplier / Consumer
-           - study
+## 01-01-2023 
+	* Add strategy pattern from behavioral design pattern with example.
+
