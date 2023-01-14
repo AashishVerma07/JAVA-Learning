@@ -86,3 +86,5 @@
 	* Add strategy pattern from behavioral design pattern with example.
 ## 02-01-2023
 	* Stream 
+## 14-01-2023
+        * Don't push anything out with family.
