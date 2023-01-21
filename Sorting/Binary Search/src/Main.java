@@ -5,9 +5,10 @@ public class Main {
         int target = 28;
         int startPoint = 0;
         int endPoint = arr.length -1;
-        int mid = (startPoint + endPoint)/2;
 
         while(startPoint <= endPoint){
+        int mid = (startPoint + endPoint)/2;
+            
             if(arr[mid] == target){
                 System.out.println(mid);
                 break;
@@ -16,7 +17,6 @@ public class Main {
             }else {
                 endPoint = endPoint - 1;
             }
-            mid = (startPoint + endPoint)/2;
         }
         if(startPoint > endPoint){
             System.out.println("Target Not Found");
